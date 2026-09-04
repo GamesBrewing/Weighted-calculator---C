@@ -1,2 +1,2 @@
 # Weighted-calculator---C
-Weighted calculator using C
+Calculator to find your final grade in a class using a weighted grade scale.
